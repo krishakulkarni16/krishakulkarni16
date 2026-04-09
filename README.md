@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Krisha Kulkarni 👋
 
-<!--
-**krishakulkarni16/krishakulkarni16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student (MMCOE, Pune)
+📍 India
 
-Here are some ideas to get you started:
+💻 Passionate about Web Development & AI
+🚀 Currently learning JavaScript and building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+* HTML, CSS, JavaScript
+* Node.js (Learning)
+* Git & GitHub
+* Express js
+* Terminal
+* Bootstrap
+* mySQL
+* PL/SQL
+* MongoDB
+
+---
+
+## 📌 Projects
+
+* 💼 Internship Management System
+* 📊 Student Analysis Project (400 Students Data)
+* 🌐 Personal Portfolio Website (Coming Soon)
+* 👩‍🌾 Kisaan Konnect
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* React.js
+* C++
+* Machine Learning
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: www.linkedin.com/in/krishakulkarni
+
+---
+
+⭐ Check out my repositories to see my work!
